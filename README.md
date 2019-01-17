@@ -3,10 +3,10 @@
 <a href="https://github.com/vishaltorgal/Fragments/raw/master/fragments.apk"><img src="https://github.com/vishaltorgal/SendingEmails/blob/master/dlapk.png" width="150" height="80" title="White flower" alt="Flower"></a>
 
 <br>
-      <h6> Fragment 1 </h6>
+<h6> Fragment 1 </h6>
 <p style="text-align: center;"><img src="https://github.com/vishaltorgal/Fragments/blob/master/img1.png" alt="" width="300" height="450"/>&nbsp;</p>
   
-    <h6> Fragment 2 </h6>
+<h6> Fragment 2 </h6>
 <p style="text-align: center;"><img src="https://github.com/vishaltorgal/Fragments/blob/master/img2.png" alt="" width="300" height="450"/>&nbsp;</p>
 <br><br>
 
