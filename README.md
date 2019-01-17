@@ -2,19 +2,13 @@
 
 <a href="https://github.com/vishaltorgal/Fragments/raw/master/fragments.apk"><img src="https://github.com/vishaltorgal/SendingEmails/blob/master/dlapk.png" width="150" height="80" title="White flower" alt="Flower"></a>
 
-
 <br>
-<img src="img src="https://github.com/vishaltorgal/Fragments/blob/master/img1.png " alt="alt text" width="300" height="450">
-<br><br>
-<img src="https://github.com/vishaltorgal/Fragments/blob/master/img2.png " alt="alt text" width="300" height="450">
-<br><br>
-
-   <h6> Fragment 1 </h6>
+      <h6> Fragment 1 </h6>
 <p style="text-align: center;"><img src="https://github.com/vishaltorgal/Fragments/blob/master/img1.png" alt="" width="400" height="550"/>&nbsp;</p>
   
     <h6> Fragment 2 </h6>
 <p style="text-align: center;"><img src="https://github.com/vishaltorgal/Fragments/blob/master/img2.png" alt="" width="400" height="550"/>&nbsp;</p>
-
+<br><br>
 
 ```java
 
