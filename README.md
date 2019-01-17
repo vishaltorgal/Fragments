@@ -4,10 +4,10 @@
 
 <br>
       <h6> Fragment 1 </h6>
-<p style="text-align: center;"><img src="https://github.com/vishaltorgal/Fragments/blob/master/img1.png" alt="" width="400" height="550"/>&nbsp;</p>
+<p style="text-align: center;"><img src="https://github.com/vishaltorgal/Fragments/blob/master/img1.png" alt="" width="300" height="450"/>&nbsp;</p>
   
     <h6> Fragment 2 </h6>
-<p style="text-align: center;"><img src="https://github.com/vishaltorgal/Fragments/blob/master/img2.png" alt="" width="400" height="550"/>&nbsp;</p>
+<p style="text-align: center;"><img src="https://github.com/vishaltorgal/Fragments/blob/master/img2.png" alt="" width="300" height="450"/>&nbsp;</p>
 <br><br>
 
 ```java
